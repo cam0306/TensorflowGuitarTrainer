@@ -18,7 +18,9 @@ Initialy it seemed clear that a sequence to sequence model trained from bar to b
 sense to generate novel music from given input. after training it became appearent that the previous bar of the tab had little
 to no effect on the next bar. However, there was an overall pattern to the tablature, so it would go to show that an encoded 
 value could have an effective baring to showing overall style of a piece.
-## Accomplisments
+
+## Acomplishments
+Learned how a sequence to sequence recurent neural network works functionally.
 
 ## Notes
 LSTM models are good for language comprehension so it would go to show that they would be good for comprehending musical
