@@ -1,6 +1,6 @@
 """
 Author: Cameron Knight
-Description
+Description: Tensor flow example projects used for reference.
 """
 
 
