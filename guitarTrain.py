@@ -99,7 +99,6 @@ def train_batch(songIndex,sess):
 	trains the model on a given song index
 	returns the average loss of the song
 	"""
-
 	t_loss_t = []
 	song = GetSong(songIndex)
 	if song == None: return
