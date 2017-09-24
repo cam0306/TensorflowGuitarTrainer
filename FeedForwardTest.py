@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+"""
+Author: Cameron Knight
+Description: Tensorflow feedforward network for referencing.
+"""
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
