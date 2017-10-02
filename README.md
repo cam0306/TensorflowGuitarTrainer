@@ -1,4 +1,4 @@
-# TensorflowGuitarTrainer
+# Guitar Tab LSTM
 uses tensorflow sequince to sequence Models to learn musical concepts and guitar styles based on tablature
 skimmed from the web.
 
